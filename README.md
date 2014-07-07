@@ -1,4 +1,4 @@
-LookAndSaySequence
+Look And Say Sequence
 ==================
 
 Look-and-say sequence on Ruby
