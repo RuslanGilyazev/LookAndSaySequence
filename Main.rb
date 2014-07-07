@@ -7,7 +7,7 @@ if __FILE__ == $0
   #Проверяем наличие аргумента. При его отсутствии выводим 10 чисел.
   number_of_numbers = 
     if(ARGV[0] != nil)
-   	  ARGV[0].to_i    
+      ARGV[0].to_i    
     else 
       10
     end
