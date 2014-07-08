@@ -18,8 +18,8 @@ if __FILE__ == $0
   #Выполняем цикл
   1.upto(number_of_numbers) {
     temp_count = 1
-	count = 0
-	temp_string = ''
+    count = 0
+    temp_string = ''
 
     #Выводим число последовательности.
     print number + "\n"
